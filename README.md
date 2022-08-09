@@ -1,2 +1,2 @@
-# favourite_songs
+# Canciones favoritas
 Una aplicación para agregar y eliminar canciones a una lista
